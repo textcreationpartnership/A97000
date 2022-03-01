@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Serious observations lately made, touching his Majesty Charles the Second, King of England, Scotland,France &amp; Ireland. King Charles Stuart, in Hebrew thus: [Hebrew] translated into English, is thus, the King hath prepared a refreshing, hee hath crushed it out of the rock by degrees. Published to inform the people, per H. Walker. S.S.T.S.</title>
+            <author>Walker, Henry, Ironmonger.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97000</idno>
+            <idno type="STC">Wing W383</idno>
+            <idno type="STC">Thomason E1035_14</idno>
+            <idno type="STC">ESTC R209295</idno>
+            <idno type="EEBO-CITATION">99868178</idno>
+            <idno type="PROQUEST">99868178</idno>
+            <idno type="VID">168937</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97000)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168937)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1035[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Serious observations lately made, touching his Majesty Charles the Second, King of England, Scotland,France &amp; Ireland. King Charles Stuart, in Hebrew thus: [Hebrew] translated into English, is thus, the King hath prepared a refreshing, hee hath crushed it out of the rock by degrees. Published to inform the people, per H. Walker. S.S.T.S.</title>
+                  <author>Walker, Henry, Ironmonger.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R.I. and are to bee sold by William Gilbertson at the Bible in Gilt-spur-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotations on Thomason copy: "Aug: 6"; following "Walker" in author statement: "Ironmonger".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168937:1" rendition="simple:additions"/>
+            <p>SERIOUS OBSERVATIONS LATELY MADE, Touching his Majeſty Charles the Second, KING OF <hi>England, Scotland, France &amp; Ireland.</hi>
+            </p>
+            <p>
+               <hi>King Charles Stuart,</hi> in Hebrew thus: .מלך כרה לוש צור אט</p>
+            <p>Tranſlated into Engliſh, is thus, <q>The King hath prepared a Refreſhing, hee hath Cruſhed it out of the Rock by Degrees.</q>
+            </p>
+            <p>Publiſhed to inform the People,</p>
+            <p>
+               <hi>Per H. Walker. S. S. T. S.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. I.</hi> and are to bee ſold by <hi>William Gil<g ref="char:EOLhyphen"/>bertſon</hi> at the Bible in Gilt-ſpur-ſtreet. 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168937:2"/>
+            <pb n="1" facs="tcp:168937:2"/>
+            <head>Serious Obſervations Lately made, Touching his Majeſty CHARLES the Second, KING OF <hi>England, Scotland, France</hi> &amp; <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Royall Majeſty <hi>Charles the Second,</hi> by the Grace of God King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> is both in the <hi>Hypoſtaſis,</hi> and in the <hi>Proſopon,</hi> (under God, and our Saviour Jeſus Chriſt) in this juncture of the time of his tempo<g ref="char:EOLhyphen"/>ral life, our true and Soveraign Lord, rightly poſ<g ref="char:EOLhyphen"/>ſeſſed of the Crown and Government; according to the mind of God revealed in his word, and the Laws and Cuſtoms of theſe Nations; And wee ought to bee ſubject to him, not for fear, but out of Conſci<g ref="char:EOLhyphen"/>ence; and God hath declared damnation againſt thoſe that reſiſt him, <hi>Rom.</hi> 13.</p>
+            <p n="1">1 His Majeſty hath the <hi>Hypoſtaſis,</hi> that ſubſiſtance to which God hath formed him to King-ſhip, in whoſe breſt alone is (for us) the Royall Abſtract: God hath qualified him to uſe him as his Inſtrument for the Government hee hath appointed him to, o<g ref="char:EOLhyphen"/>ver us; wee cannot think that the Kingly heart mentioned 1 <hi>Sam.</hi> 10.9. is at this time in any breaſt fitted for theſe Nations, but in the boſome of his ſacred Majeſtie.</p>
+            <pb n="2" facs="tcp:168937:3"/>
+            <p>His Royal Father (in whom it was till death) had treacherous ſervants that conſpired againſt him, and ſlew him at his own Houſe, ſince which, that diſpen<g ref="char:EOLhyphen"/>ſation of the Spirit deſcendeth upon his Majeſty that now is, whom wee are obliged to honour and bleſſe God for, as the Jews did good King <hi>Joſiah,</hi> who reigned in his Fathers ſtead, 2 <hi>King.</hi> 21.23.</p>
+            <p n="2">2 His Majeſty is the <hi>Proſopon,</hi> that perſon in the Concrete, upon whoſe ſacred brows the Royal Dia<g ref="char:EOLhyphen"/>dem is rightly ſeated; however others have brood<g ref="char:EOLhyphen"/>ed upon the Crown, to flatter their ambition, or fancied themſelves Urinals, to delude the ſenſes, or aſſumed the Robes on their own backs, to terrify o<g ref="char:EOLhyphen"/>thers, with a pretence of the Plague in it; and da<g ref="char:EOLhyphen"/>red to remove the Diadem, and take off the Crown; yet God hath over-turned, over-turned, over-turned it, that it ſhould bee no more, untill our gracious King <hi>Charles</hi> came, whoſe right it is, and to whom God hath given it, as hee promiſed, <hi>Ezek.</hi> 21.26, 27</p>
+            <p>Beſides theſe Obſervations, there are many other peculier rayes of glory that ſhine about the Throne of his Majeſty, to demonſtrate to all the world, a moſt clear manifeſtation of the Lords wonderfull preſence with, and owning, and bleſſing of his Ma<g ref="char:EOLhyphen"/>jeſties Reign over us.</p>
+            <p n="1">I. His Majeſty hath an eminent ſeal from God, by healing the <hi>Evill.</hi> For the Lord Jeſus hath declared in the holy Scriptures, that, to bee one of the ſignes that ſhall follow them that beleeve; <hi>They ſhall lay hands on the ſick, and they ſhall recover, Mark</hi> 16.18. His Majeſty doth lay hands on great numbers ſick of the <hi>Evill</hi> and they do recover; By Prayer he prevails with God to give an effectuall iſſue to his touching
+<pb n="3" facs="tcp:168937:3"/> of them; None, that in his Royal abſence aſſumed the Government, could do it; all their ſtrokings and pray<g ref="char:EOLhyphen"/>ers to accompliſh it, would become vain, but, <hi>Where the word of a King is, there is power,</hi> Eccleſ. 8.4.</p>
+            <p n="2">II. His Majeſties <hi>Name</hi> and <hi>Title, King Charles Stuart,</hi> written in Hebrew thus מלך כרה לוש צור אט hath a notable ſignification, and anſwers the fulfilling of an excellent Prophecy, and glorious Promiſe, in which the Lord <hi>Jehovah,</hi> graciouſly ſtands ingaged to his Church: The plain tranſlation of the ſaid Hebrew into Engliſh is this, <hi>The King hath prepared a Re<g ref="char:EOLhyphen"/>freſhing, hee hath cruſhed it out of the Rock by de<g ref="char:EOLhyphen"/>grees.</hi> The Lord by him hath fulfilled that great bleſſing promiſed to his people, <hi>Iſa.</hi> 3.1, 2. <hi>Behold! a King ſhall reign in Righteouſneſſe, and Princes ſhall rule in Judgement, and a man ſhall bee as an hiding place from the wind, and a covert from the tempeſt, as rivers of water in a dry place, as the ſhaddow of a great Rock in a weary land.</hi>
+            </p>
+            <p>When wee were ſcorched worſe than <hi>Iſrael,</hi> in a barren, ſtarved, Wilderneſſe-condition, when ſtorms fell about us, and wee had no ſhelter, when all waters, and means ſeemed to fail; Religion, Government, Trade, Food, Peace, Hope, all our Springs were dry<g ref="char:EOLhyphen"/>ed up; then the Lord called our Royall King <hi>Charles</hi> the Second, to Reign in Righteouſneſſe, and rule in Judgement, to bee an hiding place, and a covert for us; who is become our <hi>Moſes,</hi> and hath prepared a refreſhing banquet for us in the Wilderneſſe; he hath ſmote the Rock, and given us drink out of the great depths, hee hath cruſhed us out ſweetneſſe, and made rivers of refreſhing ſtreams to glide pleaſantly in the midſt of us, like that, <hi>Pſalm</hi> 78.15, 16.</p>
+            <pb n="4" facs="tcp:168937:4"/>
+            <p>Government is (bleſſed bee God) by his Majeſties Reign over us, reſtored to its baſis, Religion and Piety is by him countenanced &amp; encouraged, Prophaneneſs, and Debauchery, by him reproved and ſhamed; And it is much upon his Royall endevours to contrive ad<g ref="char:EOLhyphen"/>mirable expedients to reduce our differences, to repair Trade, ſupply Food, and eſtabliſh Peace and Truth: So that our hopes are great in the Lords reſtoring of his Majeſty to us, who hath already made us <hi>to ſuck honey out of the Rock, and oyl out of the flinty rock</hi> (as that) <hi>Deut.</hi> 32.13.</p>
+            <p n="3">III. Thoſe whom God calls to honourable and choice Places and Imployments at their age of thirty years hee uſually poures down upon them a more than ordinary manifeſtation of his gracious preſence, to make them very eminent.</p>
+            <p>Devout <hi>Joſeph</hi> was thirty years old when God ad<g ref="char:EOLhyphen"/>vanced him to that great dignity wherein hee ſtood before <hi>Pharoah,</hi> who took off the ring from his own finger and put it on <hi>Joſephs</hi> hand, arrayed him in fine Robes, with a Gold chain about his neck, and made him to ride in a ſtately Chariot; And they cryed be<g ref="char:EOLhyphen"/>fore him, <hi>Bow the knee;</hi> And hee was Ruler over the Land of <hi>Aegypt, Gen.</hi> 41.41, <hi>to</hi> 47.</p>
+            <p>Holy <hi>David,</hi> a man after Gods own heart, was thir<g ref="char:EOLhyphen"/>ty years old when hee began to Reign King over <hi>Iſrael,</hi> to whom all the people of the Land came to <hi>Hebron,</hi> ſaying, <hi>Behold wee are thy bone, and thy fleſh; and King</hi> David <hi>made a league with them before the Lord; And they annointed him King over Iſrael,</hi> 2 Sam. 5. &amp; 4 <hi>laſt verſes.</hi>
+            </p>
+            <p>When the Levites were called to the Miniſteriall Office, to enter into the ſervice of the Lord, to do the work of the Tabernacle, they were appointed by God
+<pb n="5" facs="tcp:168937:4"/> to bee thirty years old, <hi>Num.</hi> 4.</p>
+            <p>The Lord Jeſus Chriſt himſelf, when hee began to be thirty years old, then was hee baptized and anointed into the Prieſtly Office, when praying, the Heaven was opened, and the Holy Ghoſt deſcended in a bodily ſhape like a Dove upon him &amp; a voyce came from heaven which ſaid, <hi>Thou art my beloved ſon, in thee I am well pleaſed,</hi> Lu. 3.21. &amp;c</p>
+            <p>And this is the age of our gracious Soveraign Lord King <hi>Charles</hi> the Second, in which, through Divine Providence, by the wiſdom, power and goodneſſe of God, his Majeſty is come to the Throne, and eſtabliſhed in his Royal Go<g ref="char:EOLhyphen"/>vernment.</p>
+            <p n="4">IV. The Lord ſaith of thoſe days wherein hee ſhall ariſe, and the glory of Chriſt ſhall be ſeen, <hi>Iſa.</hi> 40 2. <hi>That Kings ſhall come to the brightneſſe of his riſing, and the people ſhall flock with them,</hi> ver 3. &amp;c. And this hath God fulfilled in our eyes, making the King, and many that were baniſh<g ref="char:EOLhyphen"/>ed into ſtrange Lands, to return and miniſter unto us, and build up our broken walls. And God that in his wrath had ſmitten us, hath thus mercy on us, according to his promiſe, <hi>ver.</hi> 10. And thoſe that affl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted us, bow them<g ref="char:EOLhyphen"/>ſelves down at his Majeſties feet, whoſe boſome the Lord hath made a refreſhing to us; the Lord make him an eter<g ref="char:EOLhyphen"/>nall excellency, and the joy of many Generations.</p>
+            <p n="5">V. The Lord hath promiſed that in Chriſts exaltation in the midſt of his Church, <hi>Kings ſhall ſee &amp; ariſe, and Prin<g ref="char:EOLhyphen"/>ces ſhall worſhip, becauſe of the Lord that is faithfull, and the Holy one of</hi> Iſrael, <hi>hee ſhall chooſe them,</hi> Iſa 49.7. Thus hath God ſhewn his faithfulneſſe to our gracious King, whom hee hath raiſed up, and choſen to bee a nurſing Father, to bring us in his armes, and on his ſhoulders, to an happy eſtate, as it is <hi>ver.</hi> 22, 23.</p>
+            <p n="6">VI. M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny have ſpoken and written of glorious times
+<pb n="6" facs="tcp:168937:5"/> expected to bee, from what they have gathered out of Gods word, under eminent and choice Rulers, Monarchs, and Powers, which God ſhall eſtabliſh among his peo<g ref="char:EOLhyphen"/>ple; And the times computed by the moſt of them, doe begin about this preſent, being the Year of our Lord 1660. and ſo on to 1670. So much hath been ſaid of this, not only by <hi>R. Hillel Hannaſi,</hi> and other <hi>Rabbins. Anony<g ref="char:EOLhyphen"/>mus</hi> and other <hi>German</hi> Drs. But the Lord <hi>Nappier</hi> of <hi>Scot<g ref="char:EOLhyphen"/>land, Brightman</hi> of <hi>England,</hi> and many of theſe Nations. Yea, thoſe called the <hi>Fifth Monarchy men,</hi> have made this their common Theam; little thinking who the perſon ſhould bee that thoſe ſayings pointed at, Our gracious K. <hi>Charles,</hi> whom the Lord Jehovah is (we may hope) mak<g ref="char:EOLhyphen"/>ing ſo great a Monarch, in this period of time.</p>
+            <p n="7">VII. It may bee ſaid of his Majeſty and theſe revived Nations of <hi>England, Scotland</hi> &amp; <hi>Ireland</hi> (that are like dry bones raiſed from the dead) as it was once ſaid of <hi>David</hi> and the people of <hi>Iſrael, Pſal.</hi> 144.10, &amp;c. <hi>It is God that giveth ſalvation unto Kings,</hi> who hath delivered his Ser<g ref="char:EOLhyphen"/>vant our Soveraign <hi>Charles</hi> the Second our gracious King, from the hurtfull Sword, that hath rid him out of the hands of ſtrange Nations, and brought him to his Right, to Reign in great ſplendor over us; <hi>That our ſons may bee as plants, and our daughters as poliſhed ſtones, that our garners may bee full, our ſheep bring forth thouſands, our Oxen bee ſtrong to labour; that there may bee no breaking in, nor going out<g ref="char:punc">▪</g> that there bee no complaining in our ſtreets.</hi>
+            </p>
+            <p>Happy are wee now, a people in ſuch a caſe; happy are wee who have ſuch a King; yea, happy are wee whoſe God is the Lord. And while wee have breath let us ſay,</p>
+            <closer>God ſave King Charles the Second.</closer>
+            <closer>AMEN.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
